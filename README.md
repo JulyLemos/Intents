@@ -29,7 +29,7 @@ O projeto está rodando na versão Android Studio Narwhal 3 Feature Drop | 2025.
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/fVkp4kPP)
+![App Screenshot](https://ibb.co/j9LbVMML)
 ![App Screenshot](https://ibb.co/svGHZNFz)
 ![App Screenshot](https://ibb.co/j9LbVMML)
 
