@@ -27,16 +27,21 @@ O projeto está rodando na versão Android Studio Narwhal 3 Feature Drop | 2025.
 - Etc.
 
 
-## Screenshots
-
-![App Screenshot](https://ibb.co/j9LbVMML)
-![App Screenshot](https://ibb.co/svGHZNFz)
-![App Screenshot](https://ibb.co/j9LbVMML)
-
-
 ## Tecnologia
 
 **IDE**: Android Studio 
 
 **Linguagem**: Kotlin
+
+
+## Contato
+
+julylemos1@hotmail.com
+
+
+## 🔗 Demonstração do projeto
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/july-silva-033110222_video-de-um-projeto-simples-criado-na-aula-activity-7373916475083984896-hJzI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfmvScBok60mn8KrVwgKrZ2HFRfsPFR6Ws)
+
+[![twitter](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/pCxK6_3SN0k)
 
